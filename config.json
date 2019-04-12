@@ -1,0 +1,16 @@
+{
+	"type":"repository",
+	"version":"master",
+	"category":"Marketing Cloud",
+	"name":"Marketing",
+	"image":"https://drive.google.com/uc?id=1QzE0bn4CZB9m-n_dcDIIs-FY_Q3Obwpe",
+	"description":"Get the Following Boosters: Increase the Number of opportunity, Increase the opportunities won, Your sales will grow rapidly",
+	
+	"dependencies":[
+		{
+			"type":"linkRepository",
+			"version":"master",
+			"name":"FieloIncentiveAutomation/fielodeploy"
+		}
+	]
+}
