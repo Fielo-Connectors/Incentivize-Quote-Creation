@@ -5,5 +5,9 @@
         <members>FieloPLT__Member__c.Test2__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>FieloTestModal1</members>
+        <name>StaticResource</name>
+    </types>
     <version>41.0</version>
 </Package>
