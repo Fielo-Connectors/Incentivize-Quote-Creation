@@ -16,10 +16,10 @@
     "records" : [ {
       "fieldsValues" : [ {
         "apiName" : "name",
-        "value" : "FieloLocal"
+        "value" : "FieloBoosterTest"
       }, {
         "apiName" : "fieloplt__externalid__c",
-        "value" : "FieloLocal"
+        "value" : "FieloBoosterTest"
       }, {
         "apiName" : "fieloplt__version__c",
         "value" : "1.000"
