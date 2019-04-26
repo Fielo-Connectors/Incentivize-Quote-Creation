@@ -7,6 +7,7 @@
 	"description":"Get the Following Boosters: Increase the Number of opportunity, Increase the opportunities won, Your sales will grow rapidly",
 	"featured":"Yes",
 	"price":"2500",
+	"repo-name":"Marketing-Accelerators",
 	
 	"dependencies":[
 		{
