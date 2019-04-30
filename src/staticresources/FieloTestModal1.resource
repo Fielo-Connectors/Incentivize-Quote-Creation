@@ -16,7 +16,7 @@
     "records" : [ {
       "fieldsValues" : [ {
         "apiName" : "name",
-        "value" : "BoosterTest2"
+        "value" : "Opportunity - Increase the Number of Close Won Deals"
       }, {
         "apiName" : "fieloplt__externalid__c",
         "value" : "BoosterTest2"
